@@ -2,3 +2,4 @@ this is under new file1.txt, more lines are added.
 Added by sensiwed.
 this is the second line.
 this is the third line.
+new changes added in feature 1
