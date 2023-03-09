@@ -1,6 +1,6 @@
 these are some more changes from feature 1
 
 
-
+this is my file.
 this is a new file.
 fixed new bugs here.
